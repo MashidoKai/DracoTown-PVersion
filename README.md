@@ -3,7 +3,7 @@ DracoTown is a vast terminal game where you hunt Dragons, earn rewards, Buy Item
 
 Current Updates:
 
-1 - I am working on the save/load for the game finally!
+1 - I am working on the save/load for the game finally!\n
 2 - Working on minor bugs.
 3 - Adding more items.
 4 - Adding more stores

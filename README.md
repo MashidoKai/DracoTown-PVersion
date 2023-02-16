@@ -13,5 +13,4 @@ Current Updates:
 
 Coming Soon:
 
-The Addition of quests
-The Alpha Release of DracoTown
+The Addition of quests                                                                                                                                         The Alpha Release of DracoTown

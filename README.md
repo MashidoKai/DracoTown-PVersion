@@ -9,8 +9,6 @@ Current Updates:
 
 3 - Adding more items.
 
-4 - Adding more stores.
-
 Coming Soon:
 
 The Addition of quests

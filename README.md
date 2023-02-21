@@ -1,7 +1,7 @@
 # DracoTown
 ![image](https://user-images.githubusercontent.com/93094729/220181360-bd402c1f-2430-4097-a15e-8e347bfcd1eb.png)<br />
 ![GitHub last commit](https://img.shields.io/badge/Version-GitHub%20Prev-blue)
-![Twitter Follow](https://img.shields.io/twitter/follow/mashido_3?style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mashido_3?style=flat-square)](https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fmashido_3)
 
 DracoTown is a vast terminal game where you hunt Dragons, earn rewards, Buy Items, and much more. DracoTown Currently does NOT have a playable release. The Alpha game will soon be released.
 

@@ -13,4 +13,5 @@ DracoTown is a vast terminal game where you hunt Dragons, earn rewards, Buy Item
 
 Alpha Release of DracoTown
 
+###### Resources
 DracoTown is Powered by [Python](https://www.python.org/) and coded with [VS Code](https://code.visualstudio.com/)
